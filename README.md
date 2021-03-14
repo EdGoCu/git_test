@@ -1,0 +1,1 @@
+This is EdGoCu’s first git project!
